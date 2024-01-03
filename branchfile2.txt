@@ -1,0 +1,2 @@
+Checkout branches with pull requests and view CI statuses
+See all open pull requests for your repositories and check them out as if they were a local branch, even if they're from upstream branches or forks. See which pull requests pass commit status checks
